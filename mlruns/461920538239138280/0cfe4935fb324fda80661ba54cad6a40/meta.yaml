@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Learn/MLflow/mlruns/461920538239138280/0cfe4935fb324fda80661ba54cad6a40/artifacts
+end_time: 1696520195208
+entry_point_name: ''
+experiment_id: '461920538239138280'
+lifecycle_stage: active
+run_id: 0cfe4935fb324fda80661ba54cad6a40
+run_name: chill-crow-866
+run_uuid: 0cfe4935fb324fda80661ba54cad6a40
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696520195153
+status: 3
+tags: []
+user_id: aspir

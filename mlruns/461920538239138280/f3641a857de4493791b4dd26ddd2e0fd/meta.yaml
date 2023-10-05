@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Learn/MLflow/mlruns/461920538239138280/f3641a857de4493791b4dd26ddd2e0fd/artifacts
+end_time: 1696520195138
+entry_point_name: ''
+experiment_id: '461920538239138280'
+lifecycle_stage: active
+run_id: f3641a857de4493791b4dd26ddd2e0fd
+run_name: debonair-bear-255
+run_uuid: f3641a857de4493791b4dd26ddd2e0fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696519944720
+status: 3
+tags: []
+user_id: aspir
