@@ -1,5 +1,7 @@
 # MLflow (ภาษาไทย)
 
+ Status : `In progress`
+
 - เนื้อหาใน Repository นี้มาจากการเนื้อหาภายในคอร์ส Introduction to MLflow (Datacamp) ผสมกับการอ่านเพิ่มเติมของผมเองนะครับ
   
 ซึ่งผมมีเจตนาในการแชร์ครั้งนี้เพื่อ <br>
